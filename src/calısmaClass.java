@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class calısmaClass {
+public class calısmaClass {
+
+
 }
